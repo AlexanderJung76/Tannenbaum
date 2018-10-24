@@ -32,7 +32,7 @@ namespace Tannenbaum
                 }
                 Console.WriteLine();
             }
-            int stammv = stamm / 2;
+            int stammv = stamm / 3;
             for (int s3 = 0; s3 < stammv; s3++)
             {
                 for (int s = 0; s < stamm; s++)
